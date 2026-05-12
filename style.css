@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: #E8EDF2;
+    color: #2C3947;
+}
+
+h1 {
+    font-family: cursive;
+    text-decoration: underline;
+    font-size: 40px;
+    color: #2C3947;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    border: 8px solid black;
+    margin: 0.3rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash {
+    background-color: aqua;
+}
