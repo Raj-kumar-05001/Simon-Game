@@ -5,8 +5,8 @@ A fun and interactive memory-based game inspired by the classic **Simon Says** g
 ---
 
 ## 🚀 Live Demo
-🔗 Add your deployed link here (GitHub Pages/Netlify/Vercel)
 
+https://raj-kumar-05001.github.io/Simon-Game/
 
 ---
 
